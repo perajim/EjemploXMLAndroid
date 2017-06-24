@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productos>
+  <producto>
+    <nombre> Playera</nombre>
+    <cantidad>20</cantidad>
+  </producto>
+  <producto>
+    <nombre> Pantalon</nombre>
+    <cantidad>10</cantidad>
+  </producto>
+  <producto>
+    <nombre>Calcetines</nombre>
+    <cantidad>8</cantidad>
+  </producto>
+  <producto>
+    <nombre>Tennis</nombre>
+    <cantidad>50</cantidad>
+  </producto>
+</productos>
